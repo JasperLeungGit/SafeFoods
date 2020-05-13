@@ -1,0 +1,13 @@
+SafeFoods Deployment Document:
+
+1. Launch Eclipse.
+
+2. Run App.java
+
+3. GUI should now appear and you interact with it
+	-  options: search for a restaurant or plan a trip
+		- search for a restaurant requires only a restaurant name
+		- planning a trip requires 2 address; the start address and end address
+			- address is saved when clicking the save address button, or when pressing the plan trip button
+			- address is cleared when pressing the clear address button
+		
